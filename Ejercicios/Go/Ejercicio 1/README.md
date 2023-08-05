@@ -12,7 +12,6 @@ Este programa en Go cuenta e indica el número de caracteres, palabras y líneas
 ```bash
 go run Ejercicio1.go
 ```
-Copia y pega un texto largo directamente en la consola o escríbelo directamente y luego presiona Enter seguido de una línea en blanco para indicar que has terminado de ingresar el texto.
 
 Ingresa el texto que deseas analizar. Puedes copiar y pegar un texto largo o escribirlo directamente en la consola. Luego, presiona Enter seguido de una línea en blanco para indicar que has terminado de ingresar el texto.
 
