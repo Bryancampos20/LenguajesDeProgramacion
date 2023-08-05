@@ -17,7 +17,11 @@ El curso de Lenguajes de Programación tiene como objetivo brindar una introducc
 
 El repositorio estará organizado de la siguiente manera:
 
-- **Tareas**: En esta carpeta se encontrarán las tareas asignadas durante el curso, junto con sus respectivas soluciones y documentación.
+- **Ejercicios**: En esta carpeta se encontrarán los ejercicios asignados durante el curso, agrupados por el lenguaje de programación utilizado.
+  - **Go**: Ejercicios de Go.
+  - **Prolog**: Ejercicios en Prolog.
+  - **Java**: Ejercicios en Java.
+  - ... (otros lenguajes que puedan utilizarse en el curso)
 
 ## Contacto
 
