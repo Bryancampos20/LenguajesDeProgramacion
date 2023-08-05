@@ -22,6 +22,7 @@ El repositorio estará organizado de la siguiente manera:
   - **Prolog**: Ejercicios en Prolog.
   - **Java**: Ejercicios en Java.
   - ... (otros lenguajes que puedan utilizarse en el curso)
+- **Recursos**: En esta sección, compartiré recursos útiles, enlaces y capturas de pantalla con el output de los códigos realizados durante los ejercicios y proyecto
 
 ## Contacto
 
