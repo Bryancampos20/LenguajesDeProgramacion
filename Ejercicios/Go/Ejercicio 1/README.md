@@ -18,6 +18,8 @@ Ingresa el texto que deseas analizar. Puedes copiar y pegar un texto largo o esc
 
 ## Resultados
 
+![Screenshot (160)](https://github.com/Bryancampos20/LenguajesDeProgramacion/blob/main/Recursos/Go/Ejercicio1.png)
+
 
 ¡Diviértete usando el programa y explorando las estadísticas de tus textos! Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto conmigo.
 
