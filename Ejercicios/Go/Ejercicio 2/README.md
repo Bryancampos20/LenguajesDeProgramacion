@@ -17,9 +17,14 @@ Una vez que ingreses la cantidad de elementos, el programa imprimirá en pantall
 
 ## Resultados
 
+Una vez que ingreses la cantidad de elementos, el programa imprimirá en pantalla el rombo correspondiente con el tamaño seleccionado.
 
+![Screenshot (160)](https://github.com/Bryancampos20/LenguajesDeProgramacion/blob/main/Recursos/Go/Ejercicio2a.png)
+
+En caso que no se ingrese un número impar positivo, se mostrará el siguiente mensaje.
+
+![Screenshot (160)](https://github.com/Bryancampos20/LenguajesDeProgramacion/blob/main/Recursos/Go/Ejercicio2b.png)
 
 ¡Diviértete usando el programa y explorando las diferentes formas del rombo! Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto conmigo.
 
 Happy coding! 🚀
-
