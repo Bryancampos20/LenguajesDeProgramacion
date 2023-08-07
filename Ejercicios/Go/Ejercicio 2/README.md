@@ -13,7 +13,7 @@ Este programa en Go te permite imprimir en pantalla un rombo utilizando asterisc
 go run Ejercicio2.go
 ```
 
-Una vez que ingreses la cantidad de elementos, el programa imprimirá en pantalla el rombo correspondiente con el tamaño seleccionado.
+El programa te solicitará ingresar la cantidad de elementos de la línea central del rombo. Asegúrate de ingresar un número impar positivo y luego presiona Enter.
 
 ## Resultados
 
