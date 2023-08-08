@@ -10,7 +10,7 @@ Este programa en Go permite rotar una secuencia de elementos N posiciones a la i
 4. Ejecuta el siguiente comando para compilar y ejecutar el programa:
 
 ```bash
-go run Ejercicio2.go
+go run Ejercicio3.go
 ```
 
 El programa te solicitará ingresar una secuencia de elementos separados por comas. Por ejemplo: a,b,c,d,e,f,g,h
