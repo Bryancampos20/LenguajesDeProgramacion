@@ -13,7 +13,7 @@ Este programa en Go administra un inventario de una tienda que vende zapatos, re
 go run Ejercicio4.go
 ```
 
-El programa administra el inventario de zapatos de la tienda, permitiendo realizar ventas y actualizando el stock en tiempo real. El inventario se imprime al final para mostrar los cambios después de las ventas realizadas.
+El programa administra el inventario de zapatos de la tienda, permitiendo realizar ventas y actualizando el stock en tiempo real. El inventario se imprime al final para mostrar los cambios después de las ventas realizadas. En caso de que no haya un zapato disponible, lo va a indicar con un mensaje en consola diciendo que no hay stock disponible y el zapato que no hay más.
 
 ## Resultados
 
