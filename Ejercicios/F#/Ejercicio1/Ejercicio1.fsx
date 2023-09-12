@@ -27,6 +27,6 @@ let resultado1 = desplazar "izq" 3 [1; 2; 3; 4; 5]
 let resultado2 = desplazar "der" 2 [1; 2; 3; 4; 5]
 let resultado3 = desplazar "izq" 6 [1; 2; 3; 4; 5]
 
-printfn "%s" resultado1 // Imprime: "[4;5;0;0;0]"
-printfn "%s" resultado2 // Imprime: "[0;0;1;2;3]"
-printfn "%s" resultado3 // Imprime: "[0;0;0;0;0]"
+printfn "%s" resultado1 
+printfn "%s" resultado2 
+printfn "%s" resultado3 
