@@ -17,7 +17,7 @@ Sigue las instrucciones en la consola para ingresar el valor de n y la lista que
 
 ## Resultados
 
-![Screenshot (160)](https://github.com/Bryancampos20/LenguajesDeProgramacion/blob/main/Recursos/Go/Ejercicio3.png)
+![Screenshot (160)](https://github.com/Bryancampos20/LenguajesDeProgramacion/blob/main/Recursos/F%23/Ejercicio3.png)
 
 ¡Diviértete usando el programa y obteniendo los enésimos elementos de tus listas! Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto conmigo.
 
