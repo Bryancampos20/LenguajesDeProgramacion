@@ -1,5 +1,3 @@
-Ocupo hacer el readme para este ejercicio, te voy a pasar una plantilla que ocupo que uses de base para que se lo apliques a este ejercicio: 
-
 # Ejercicio 3
 
 Este programa en F# obtiene el enésimo elemento de una lista utilizando solo List.map y devuelve el resultado como una cadena de caracteres.
