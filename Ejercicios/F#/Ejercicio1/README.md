@@ -17,8 +17,7 @@ El programa te pedirá que ingreses la dirección ("izq" o "der"), el número de
 
 ## Resultados
 
-![Screenshot (160)](https://github.com/Bryancampos20/LenguajesDeProgramacion/blob/main/Recursos/F#/Ejercicio1.png)
-
+![Screenshot (160)](https://github.com/Bryancampos20/LenguajesDeProgramacion/blob/main/Recursos/F%23/Ejercicio1.png)
 
 ¡Diviértete usando el programa y explorando los resultados de desplazamiento de listas! Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto conmigo.
 
