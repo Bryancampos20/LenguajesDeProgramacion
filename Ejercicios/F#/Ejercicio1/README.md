@@ -10,7 +10,7 @@ Este programa en F# permite desplazar una lista de elementos hacia la izquierda 
 4. Ejecuta el siguiente comando para compilar y ejecutar el programa:
 
 ```bash
-dotnet fsi DesplazarLista.fs
+dotnet fsi Ejercicio1.fsx
 ```
 
 El programa te pedirá que ingreses la dirección ("izq" o "der"), el número de posiciones a desplazar y la lista de elementos. Asegúrate de seguir las instrucciones para ingresar los datos adecuadamente en el main. 
