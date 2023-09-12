@@ -10,7 +10,7 @@ Este programa en F# obtiene el enésimo elemento de una lista utilizando solo Li
 4. Ejecuta el siguiente comando para compilar y ejecutar el programa:
 
 ```bash
-dotnet fsi Ejercicio2.fsx
+dotnet fsi Ejercicio3.fsx
 ```
 
 Sigue las instrucciones en la consola para ingresar el valor de n y la lista que deseas analizar.
