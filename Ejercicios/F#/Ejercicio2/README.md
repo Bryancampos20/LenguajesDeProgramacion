@@ -1,6 +1,6 @@
 # Ejercicio 2
 
-ste programa en F# filtra cadenas que contienen una subcadena específica en una lista de cadenas.
+Este programa en F# filtra cadenas que contienen una subcadena específica en una lista de cadenas.
 
 ## Instrucciones
 
