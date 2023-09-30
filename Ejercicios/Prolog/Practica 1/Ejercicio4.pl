@@ -1,0 +1,7 @@
+partir([], _, [], []).
+partir([X|Resto], Umbral, [X|Menores], Mayores) :-
+    X =< Umbral,
+    partir(Resto, Umbral, Menores, Mayores).
+partir([X|Resto], Umbral, Menores, [X|Mayores]) :-
+    X > Umbral,
+    partir(Resto, Umbral, Menores, Mayores).
