@@ -6,7 +6,7 @@ Estos ejercicios en Prolog son el resultado de la practica 1
 
 1. Asegúrate de tener Prolog instalado en tu sistema.
 2. Descarga la carpeta `Practica 1` a tu directorio local.
-3. Abre una terminal y navega al directorio donde se encuentra el archivo `Practica 1`.
+3. Abre una terminal y navega al directorio donde se encuentra la carpeta `Practica 1`.
 4. Ejecuta el siguiente comando para compilar y ejecutar el programa:
 
 ```bash
