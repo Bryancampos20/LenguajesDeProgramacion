@@ -19,11 +19,11 @@ Estos programas se encargar de realizar los ejercicios solicitados de forma indi
 
 Ejercicio #1
 
-![Screenshot (160)](https://github.com/Bryancampos20/LenguajesDeProgramacion/blob/main/Recursos/Prolog/Practica1/Ejercicio1.png)
+![Screenshot (160)](https://github.com/Bryancampos20/LenguajesDeProgramacion/blob/main/Recursos/Prolog/Practica2/cromosomas.png)
 
 Ejercicio #2
 
-![Screenshot (160)](https://github.com/Bryancampos20/LenguajesDeProgramacion/blob/main/Recursos/Prolog/Practica1/Ejercicio2.png)
+![Screenshot (160)](https://github.com/Bryancampos20/LenguajesDeProgramacion/blob/main/Recursos/Prolog/Practica2/rutas.png)
 
 ¡Diviértete usando el programa y explorando todos los ejercicios! Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto conmigo.
 
