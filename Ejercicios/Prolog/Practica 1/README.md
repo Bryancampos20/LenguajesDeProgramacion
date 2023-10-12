@@ -10,7 +10,7 @@ Estos ejercicios en Prolog son el resultado de la practica 1
 4. Ejecuta el siguiente comando para compilar y ejecutar el programa:
 
 ```bash
-swipl -s nombre_del_ejercicio.pl
+swipl -s Ejercicios.pl
 ```
 
 Estos programas se encargar de realizar los ejercicios solicitados de forma individual asumiendo que todas las listas contienen elementos del tipo necesario para resolver cada ejercicio.
