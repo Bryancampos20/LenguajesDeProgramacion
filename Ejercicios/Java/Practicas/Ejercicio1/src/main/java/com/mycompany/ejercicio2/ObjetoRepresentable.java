@@ -1,0 +1,5 @@
+interface ObjetoRepresentable {
+
+    void dibujar();
+
+}
